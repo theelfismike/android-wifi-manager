@@ -1,8 +1,9 @@
 android-wifi-manager
 ====================
 
-Work in progress!
-===
+Simple app that gets a list of configured wireless networks and displays then in a ListView.
+
+Might be useful for applications that require prompting the user to select a preferred network.
 
 ### License
 
